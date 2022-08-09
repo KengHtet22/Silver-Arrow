@@ -19,8 +19,8 @@ Silver Arrow is the name of the rocket our team, Team 420, designed to participa
 
 <table style="border: none">
   <tr width="1000%">
-    <td width="46%"><img src="https://github.com/KengHtet22/Silver-Arrow/blob/main/3D%20model%20.png"></td>
-    <td width="54%"><img src="https://github.com/KengHtet22/Silver-Arrow/blob/main/3D%20model%20full.png"></td>
+    <td width="45.4%"><img src="https://github.com/KengHtet22/Silver-Arrow/blob/main/3D%20model%20.png"></td>
+    <td width="53.6%"><img src="https://github.com/KengHtet22/Silver-Arrow/blob/main/3D%20model%20full.png"></td>
   </tr>
 </table>
 
