@@ -2,7 +2,12 @@
 
 Silver Arrow is the name of the rocket our team, Team 420, designed to participate in a rocket building competition called Czech Rocket Challenge. The launchday of the competition was on 10th of June 2022. The team consisted of Lukas Mican, who was the team leader, Matej Havir, Hai Anh Nguyenova, Gustavo Maldonado and me, of course.
 
-<img src="https://github.com/KengHtet22/Silver-Arrow/blob/main/Rocket%20on%20teststand.png" width="340"> <img src="https://github.com/KengHtet22/Silver-Arrow/blob/main/Me%20with%20rocket.JPG" width="300">
+<table style="border: none">
+  <tr width="100%">
+    <td width="53%"><img src="https://github.com/KengHtet22/Silver-Arrow/blob/main/Rocket%20on%20teststand.png"></td>
+    <td width="47%"><img src="https://github.com/KengHtet22/Silver-Arrow/blob/main/Me%20with%20rocket.JPG"></td>
+  </tr>
+</table>
 
 <img src="https://github.com/KengHtet22/Silver-Arrow/blob/main/Team%20pic.JPG"> 
 
@@ -12,7 +17,12 @@ Silver Arrow is the name of the rocket our team, Team 420, designed to participa
 
 ### Near-final 3D model of the rocket
 
-<img src="https://github.com/KengHtet22/Silver-Arrow/blob/main/3D%20model%20.png" width="335"> <img src="https://github.com/KengHtet22/Silver-Arrow/blob/main/3D%20model%20full.png" width="400">
+<table style="border: none">
+  <tr width="1000%">
+    <td width="46%"><img src="https://github.com/KengHtet22/Silver-Arrow/blob/main/3D%20model%20.png"></td>
+    <td width="54%"><img src="https://github.com/KengHtet22/Silver-Arrow/blob/main/3D%20model%20full.png"></td>
+  </tr>
+</table>
 
 ### Final report
 
